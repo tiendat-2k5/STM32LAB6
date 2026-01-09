@@ -1,0 +1,2 @@
+command_parser.c:6:6:command_parser_init	4	static
+command_parser.c:10:6:command_parser_fsm	32	static
